@@ -29,9 +29,16 @@ public class Character {
 	}
 	public int getExp(){
 		return exp;
-	} 
+	}
 	
+	public void setHP(int hp){
+		this.hp = hp;
+	}
 	
+	public int getHP(){
+		return hp;
+	}
+
 
 	
 	
